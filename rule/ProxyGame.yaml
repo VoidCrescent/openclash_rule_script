@@ -1,3 +1,5 @@
 payload:
+  - GEOSITE:category-games
+  - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,tactics.tools # 云顶之弈大数据网站
   

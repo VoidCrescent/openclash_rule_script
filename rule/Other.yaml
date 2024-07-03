@@ -2,7 +2,11 @@ payload:
   - DOMAIN-SUFFIX,coze.com # 抖音的ai站点
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,canva.com
-  - DOMAIN-SUFFIX,rutracker.org
-  - DOMAIN-SUFFIX,rsload.net
+  - DOMAIN-SUFFIX,rutracker.org # 俄罗斯的资源站
+  - DOMAIN-SUFFIX,rsload.net # 俄罗斯的资源站
+  # jetbrains
+  - DOMAIN-SUFFIX,plugins.jetbrains.com
+  - DOMAIN-SUFFIX,youtrack.jetbrains.com
+  - DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
 
 
